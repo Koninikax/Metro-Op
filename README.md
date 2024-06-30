@@ -2,7 +2,7 @@
 ## Metro Operations Optimization using Python
 Metro Operations Optimization refers to the systematic process of enhancing the efficiency, reliability, and effectiveness of Metro services through various data-driven techniques and operational adjustments.
 
-The dataset can be found on statso and contains several files, as follows:
+I've collected this dataset from kaggle and it contains several files, as follows:
 
 Agency: Information about the Delhi Metro Rail Corporation, including name, URL, and contact details.
 
